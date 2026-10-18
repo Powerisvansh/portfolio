@@ -3,6 +3,17 @@
 
 <head>
   <meta charset="UTF-8" />
+  <script>
+    // SPA fallback (spa-github-pages): convert ?/path query from 404.html back to pathname
+    (function (l) {
+      if (l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function (s) {
+          return s.replace(/~and~/g, '&');
+        }).join('?');
+        window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+      }
+    })(window.location);
+  </script>
   <link rel="preload" as="image" href="./textures/paper-texture.webp" type="image/webp" fetchpriority="high" crossorigin="anonymous">
   <link rel="icon" type="image/png" href="./favico.png" />
   <link rel="apple-touch-icon" href="./favico.png" />
