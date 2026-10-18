@@ -1,0 +1,43 @@
+# Vansh Dhiman – Instrumentation & Control Engineering Student | Interactive 3D Portfolio
+> Portfolio of Vansh Dhiman (Powerisvansh) — an Instrumentation & Control Engineering diploma student building AI apps, automation and embedded electronics projects.
+
+## About
+Vansh Dhiman is a Diploma student in Instrumentation & Control Engineering (5th semester of 6) at Guru Brahmanand Ji Government Polytechnic, Nilokheri, Karnal, Haryana, India. He is based in Shamli, Uttar Pradesh, India, and speaks Hindi and English. His interests include industrial automation (PLC, SCADA, HMI), industrial electronics and flow sensors, embedded electronics (Arduino, ESP8266, ESP32, Raspberry Pi), and software / AI development with Python and Streamlit. He works on a lightweight Linux Mint setup.
+
+## Skills
+- PLC, SCADA, HMI, flow sensors, industrial electronics (Mitsubishi, Allen-Bradley, Siemens)
+- Arduino, ESP8266, ESP32, Raspberry Pi
+- Python, Streamlit, Git/GitHub, Linux
+- AI application development, basic web development
+
+## Projects
+- [Plant Doctor](https://github.com/Powerisvansh): A software-based plant identification and health-assistance app. Identifies plants from a camera, detects diseases, pests, nutrient deficiencies and plant stress, and gives remedies, nutrient doses, seasonal tips and toxicity information. Covers 3,918 plants, 23,472 taxonomy entries, 25 diseases, 7 pests, 12 deficiencies and 8 stress types.
+- [Study AI](https://github.com/Powerisvansh): An exam-preparation tool built with Python, Streamlit and the Google Gemini API. Add a PDF, DOCX, TXT or pasted text and it generates unit-wise notes in simple English, diagrams and flowcharts, 60-mark question papers, MCQs, short and long answers with answer keys, with save and resume.
+- [Vansh AI](https://vanshdevv.netlify.app): A personal AI assistant with a ChatGPT-like experience (text only, no voice): chat interface, conversation history, file uploads and attachments, API integration and a full graphical interface.
+- [PencilStudio](https://github.com/Powerisvansh): A YouTube automation pipeline that generates minimalist pencil-outline videos featuring Pencil Boy — AI story data, timeline and camera planning, narration and audio, FFmpeg rendering, scheduling and uploads.
+- [Aurora OS](https://github.com/Powerisvansh): An operating-system development project exploring low-level system design and build tooling.
+- [Automatic Inverter](https://github.com/Powerisvansh): An electronics project that converts DC to AC and provides backup power during mains failure, with battery charging.
+- [Arduino Learning Book](https://github.com/Powerisvansh): A learning resource titled "Arduino Uno: From Zero to Real Project".
+- [Driver Emergency Safety System](https://github.com/Powerisvansh): A vehicle safety concept that responds when a driver becomes incapacitated.
+
+## Education
+- Guru Brahmanand Ji Government Polytechnic, Nilokheri, Karnal, Haryana — Diploma in Instrumentation & Control Engineering (5th/6 sem).
+- Class 10 (Agriculture), 63.5% — RSS Inter College, Jhinjhana.
+
+## Achievements & Activities
+- Science Fair / Ideathon participation
+- NASA Participation Certificate
+- Plant Doctor Ideathon presentation
+- PLC / SCADA and flow-sensor training
+
+## Contact
+- Email: vanshdhimang9@gmail.com
+- Mobile: +91 9548274807
+- GitHub: https://github.com/Powerisvansh
+- Instagram: https://www.instagram.com/devloper.vansh/
+- Website: https://vanshdevv.netlify.app
+
+## FAQ
+- Who is Vansh Dhiman? An Instrumentation & Control Engineering diploma student from Shamli, Uttar Pradesh, India, interested in industrial automation, embedded electronics and AI software development.
+- What does Vansh work with? PLC/SCADA, industrial electronics, Arduino/ESP32/Raspberry Pi, Python, Streamlit and AI application development.
+- Can Vansh be contacted? Yes — by email at vanshdhimang9@gmail.com or through GitHub at github.com/Powerisvansh.

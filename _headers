@@ -1,0 +1,33 @@
+https://vanshdevv.netlify.app/*
+  X-Robots-Tag: noindex
+
+https://vanshdevv.netlify.app/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Cache static assets for 1 year (Performance & SEO Server Score)
+https://vanshdevv.netlify.app/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.png
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.ktx2
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.glb
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/*.mp3
+  Cache-Control: public, max-age=31536000, immutable
+
+https://vanshdevv.netlify.app/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
